@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "296782202267",
+    "firebase_url": "https://e-learning-dev-48cc1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "e-learning-dev-48cc1",
+    "storage_bucket": "e-learning-dev-48cc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296782202267:android:ec1a186e132750eaa30d3e",
+        "android_client_info": {
+          "package_name": "com.youssefbenattar.e_learning_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296782202267-geb2h841d0hvrmid359qi7j3n8kh01d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXf2Wt3sYYIz-DSyZ0AmYiY9EyQNcq5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296782202267-geb2h841d0hvrmid359qi7j3n8kh01d4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "296782202267-cj39bahr31dhj8vp6do4r689c38a10tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eLarningFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
